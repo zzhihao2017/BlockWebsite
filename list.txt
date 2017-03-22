@@ -2,6 +2,7 @@
 611fu.com
 baba100.com
 bkjia.com
+chinanylon.cn
 chinashuijing.com
 could2.com
 daxuesou.com
@@ -16,11 +17,14 @@ linksure.cn
 m.hz7788.cn
 m.so.01-800.cn
 m.so.lkeshangpc.cn
+music1.dgso.cn
+ouiot.com
 programgo.com
 quweiso.com
 s.zhihu.la
 sdss.cn
 so.100lw.com
+so.foj.cc
 so.gaiwen.com
 so.vjiangyin.net
 somjj.com
@@ -33,5 +37,7 @@ weimeiba.com
 weixingon.com
 wstnf.com
 wuji8.com
+y7l.org
 yisoupan.com
+zgbcy.cn
 zhihu.la
